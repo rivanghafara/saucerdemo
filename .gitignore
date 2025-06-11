@@ -9,6 +9,7 @@ yarn-error.log*
 .pnp.js
 
 .vscode/*
+.idea/*
 
 # Playwright
 node_modules/
@@ -16,3 +17,5 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+
+package-lock.json
